@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LeeroyKiplagat
 - 👀 I’m interested in ...Programmin
-- 🌱 I’m currently learning ...Next.js
+- 🌱 I’m currently learning ...Express.js
 - 💞️ I’m looking to collaborate on ...ReactJs Projects
 - 📫 How to reach me ... leeroykiplagat@gmail.com
 - 
